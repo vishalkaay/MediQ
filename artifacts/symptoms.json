@@ -1,0 +1,662 @@
+[
+  {
+    "id": "abdominal_pain",
+    "label": "abdominal pain",
+    "severity": 4
+  },
+  {
+    "id": "abnormal_menstruation",
+    "label": "abnormal menstruation",
+    "severity": 6
+  },
+  {
+    "id": "acidity",
+    "label": "acidity",
+    "severity": 3
+  },
+  {
+    "id": "acute_liver_failure",
+    "label": "acute liver failure",
+    "severity": 6
+  },
+  {
+    "id": "altered_sensorium",
+    "label": "altered sensorium",
+    "severity": 2
+  },
+  {
+    "id": "anxiety",
+    "label": "anxiety",
+    "severity": 4
+  },
+  {
+    "id": "back_pain",
+    "label": "back pain",
+    "severity": 3
+  },
+  {
+    "id": "belly_pain",
+    "label": "belly pain",
+    "severity": 4
+  },
+  {
+    "id": "blackheads",
+    "label": "blackheads",
+    "severity": 2
+  },
+  {
+    "id": "bladder_discomfort",
+    "label": "bladder discomfort",
+    "severity": 4
+  },
+  {
+    "id": "blister",
+    "label": "blister",
+    "severity": 4
+  },
+  {
+    "id": "blood_in_sputum",
+    "label": "blood in sputum",
+    "severity": 5
+  },
+  {
+    "id": "bloody_stool",
+    "label": "bloody stool",
+    "severity": 5
+  },
+  {
+    "id": "blurred_and_distorted_vision",
+    "label": "blurred and distorted vision",
+    "severity": 5
+  },
+  {
+    "id": "breathlessness",
+    "label": "breathlessness",
+    "severity": 4
+  },
+  {
+    "id": "brittle_nails",
+    "label": "brittle nails",
+    "severity": 5
+  },
+  {
+    "id": "bruising",
+    "label": "bruising",
+    "severity": 4
+  },
+  {
+    "id": "burning_micturition",
+    "label": "burning micturition",
+    "severity": 6
+  },
+  {
+    "id": "chest_pain",
+    "label": "chest pain",
+    "severity": 7
+  },
+  {
+    "id": "chills",
+    "label": "chills",
+    "severity": 3
+  },
+  {
+    "id": "cold_hands_and_feets",
+    "label": "cold hands and feets",
+    "severity": 5
+  },
+  {
+    "id": "coma",
+    "label": "coma",
+    "severity": 7
+  },
+  {
+    "id": "congestion",
+    "label": "congestion",
+    "severity": 5
+  },
+  {
+    "id": "constipation",
+    "label": "constipation",
+    "severity": 4
+  },
+  {
+    "id": "continuous_feel_of_urine",
+    "label": "continuous feel of urine",
+    "severity": 6
+  },
+  {
+    "id": "continuous_sneezing",
+    "label": "continuous sneezing",
+    "severity": 4
+  },
+  {
+    "id": "cough",
+    "label": "cough",
+    "severity": 4
+  },
+  {
+    "id": "cramps",
+    "label": "cramps",
+    "severity": 4
+  },
+  {
+    "id": "dark_urine",
+    "label": "dark urine",
+    "severity": 4
+  },
+  {
+    "id": "dehydration",
+    "label": "dehydration",
+    "severity": 4
+  },
+  {
+    "id": "depression",
+    "label": "depression",
+    "severity": 3
+  },
+  {
+    "id": "diarrhoea",
+    "label": "diarrhoea",
+    "severity": 6
+  },
+  {
+    "id": "dischromic_patches",
+    "label": "dischromic patches",
+    "severity": 6
+  },
+  {
+    "id": "distention_of_abdomen",
+    "label": "distention of abdomen",
+    "severity": 4
+  },
+  {
+    "id": "dizziness",
+    "label": "dizziness",
+    "severity": 4
+  },
+  {
+    "id": "drying_and_tingling_lips",
+    "label": "drying and tingling lips",
+    "severity": 4
+  },
+  {
+    "id": "enlarged_thyroid",
+    "label": "enlarged thyroid",
+    "severity": 6
+  },
+  {
+    "id": "excessive_hunger",
+    "label": "excessive hunger",
+    "severity": 4
+  },
+  {
+    "id": "extra_marital_contacts",
+    "label": "extra marital contacts",
+    "severity": 5
+  },
+  {
+    "id": "family_history",
+    "label": "family history",
+    "severity": 5
+  },
+  {
+    "id": "fast_heart_rate",
+    "label": "fast heart rate",
+    "severity": 5
+  },
+  {
+    "id": "fatigue",
+    "label": "fatigue",
+    "severity": 4
+  },
+  {
+    "id": "fluid_overload",
+    "label": "fluid overload",
+    "severity": 6
+  },
+  {
+    "id": "fluid_overload.1",
+    "label": "fluid overload.1",
+    "severity": 0
+  },
+  {
+    "id": "foul_smell_of_urine",
+    "label": "foul smell of urine",
+    "severity": 0
+  },
+  {
+    "id": "headache",
+    "label": "headache",
+    "severity": 3
+  },
+  {
+    "id": "high_fever",
+    "label": "high fever",
+    "severity": 7
+  },
+  {
+    "id": "hip_joint_pain",
+    "label": "hip joint pain",
+    "severity": 2
+  },
+  {
+    "id": "history_of_alcohol_consumption",
+    "label": "history of alcohol consumption",
+    "severity": 5
+  },
+  {
+    "id": "increased_appetite",
+    "label": "increased appetite",
+    "severity": 5
+  },
+  {
+    "id": "indigestion",
+    "label": "indigestion",
+    "severity": 5
+  },
+  {
+    "id": "inflammatory_nails",
+    "label": "inflammatory nails",
+    "severity": 2
+  },
+  {
+    "id": "internal_itching",
+    "label": "internal itching",
+    "severity": 4
+  },
+  {
+    "id": "irregular_sugar_level",
+    "label": "irregular sugar level",
+    "severity": 5
+  },
+  {
+    "id": "irritability",
+    "label": "irritability",
+    "severity": 2
+  },
+  {
+    "id": "irritation_in_anus",
+    "label": "irritation in anus",
+    "severity": 6
+  },
+  {
+    "id": "itching",
+    "label": "itching",
+    "severity": 1
+  },
+  {
+    "id": "joint_pain",
+    "label": "joint pain",
+    "severity": 3
+  },
+  {
+    "id": "knee_pain",
+    "label": "knee pain",
+    "severity": 3
+  },
+  {
+    "id": "lack_of_concentration",
+    "label": "lack of concentration",
+    "severity": 3
+  },
+  {
+    "id": "lethargy",
+    "label": "lethargy",
+    "severity": 2
+  },
+  {
+    "id": "loss_of_appetite",
+    "label": "loss of appetite",
+    "severity": 4
+  },
+  {
+    "id": "loss_of_balance",
+    "label": "loss of balance",
+    "severity": 4
+  },
+  {
+    "id": "loss_of_smell",
+    "label": "loss of smell",
+    "severity": 3
+  },
+  {
+    "id": "malaise",
+    "label": "malaise",
+    "severity": 6
+  },
+  {
+    "id": "mild_fever",
+    "label": "mild fever",
+    "severity": 5
+  },
+  {
+    "id": "mood_swings",
+    "label": "mood swings",
+    "severity": 3
+  },
+  {
+    "id": "movement_stiffness",
+    "label": "movement stiffness",
+    "severity": 5
+  },
+  {
+    "id": "mucoid_sputum",
+    "label": "mucoid sputum",
+    "severity": 4
+  },
+  {
+    "id": "muscle_pain",
+    "label": "muscle pain",
+    "severity": 2
+  },
+  {
+    "id": "muscle_wasting",
+    "label": "muscle wasting",
+    "severity": 3
+  },
+  {
+    "id": "muscle_weakness",
+    "label": "muscle weakness",
+    "severity": 2
+  },
+  {
+    "id": "nausea",
+    "label": "nausea",
+    "severity": 5
+  },
+  {
+    "id": "neck_pain",
+    "label": "neck pain",
+    "severity": 5
+  },
+  {
+    "id": "nodal_skin_eruptions",
+    "label": "nodal skin eruptions",
+    "severity": 4
+  },
+  {
+    "id": "obesity",
+    "label": "obesity",
+    "severity": 4
+  },
+  {
+    "id": "pain_behind_the_eyes",
+    "label": "pain behind the eyes",
+    "severity": 4
+  },
+  {
+    "id": "pain_during_bowel_movements",
+    "label": "pain during bowel movements",
+    "severity": 5
+  },
+  {
+    "id": "pain_in_anal_region",
+    "label": "pain in anal region",
+    "severity": 6
+  },
+  {
+    "id": "painful_walking",
+    "label": "painful walking",
+    "severity": 2
+  },
+  {
+    "id": "palpitations",
+    "label": "palpitations",
+    "severity": 4
+  },
+  {
+    "id": "passage_of_gases",
+    "label": "passage of gases",
+    "severity": 5
+  },
+  {
+    "id": "patches_in_throat",
+    "label": "patches in throat",
+    "severity": 6
+  },
+  {
+    "id": "phlegm",
+    "label": "phlegm",
+    "severity": 5
+  },
+  {
+    "id": "polyuria",
+    "label": "polyuria",
+    "severity": 4
+  },
+  {
+    "id": "prominent_veins_on_calf",
+    "label": "prominent veins on calf",
+    "severity": 6
+  },
+  {
+    "id": "puffy_face_and_eyes",
+    "label": "puffy face and eyes",
+    "severity": 5
+  },
+  {
+    "id": "pus_filled_pimples",
+    "label": "pus filled pimples",
+    "severity": 2
+  },
+  {
+    "id": "receiving_blood_transfusion",
+    "label": "receiving blood transfusion",
+    "severity": 5
+  },
+  {
+    "id": "receiving_unsterile_injections",
+    "label": "receiving unsterile injections",
+    "severity": 2
+  },
+  {
+    "id": "red_sore_around_nose",
+    "label": "red sore around nose",
+    "severity": 2
+  },
+  {
+    "id": "red_spots_over_body",
+    "label": "red spots over body",
+    "severity": 3
+  },
+  {
+    "id": "redness_of_eyes",
+    "label": "redness of eyes",
+    "severity": 5
+  },
+  {
+    "id": "restlessness",
+    "label": "restlessness",
+    "severity": 5
+  },
+  {
+    "id": "runny_nose",
+    "label": "runny nose",
+    "severity": 5
+  },
+  {
+    "id": "rusty_sputum",
+    "label": "rusty sputum",
+    "severity": 4
+  },
+  {
+    "id": "scurring",
+    "label": "scurring",
+    "severity": 2
+  },
+  {
+    "id": "shivering",
+    "label": "shivering",
+    "severity": 5
+  },
+  {
+    "id": "silver_like_dusting",
+    "label": "silver like dusting",
+    "severity": 2
+  },
+  {
+    "id": "sinus_pressure",
+    "label": "sinus pressure",
+    "severity": 4
+  },
+  {
+    "id": "skin_peeling",
+    "label": "skin peeling",
+    "severity": 3
+  },
+  {
+    "id": "skin_rash",
+    "label": "skin rash",
+    "severity": 3
+  },
+  {
+    "id": "slurred_speech",
+    "label": "slurred speech",
+    "severity": 4
+  },
+  {
+    "id": "small_dents_in_nails",
+    "label": "small dents in nails",
+    "severity": 2
+  },
+  {
+    "id": "spinning_movements",
+    "label": "spinning movements",
+    "severity": 6
+  },
+  {
+    "id": "spotting_urination",
+    "label": "spotting urination",
+    "severity": 6
+  },
+  {
+    "id": "stiff_neck",
+    "label": "stiff neck",
+    "severity": 4
+  },
+  {
+    "id": "stomach_bleeding",
+    "label": "stomach bleeding",
+    "severity": 6
+  },
+  {
+    "id": "stomach_pain",
+    "label": "stomach pain",
+    "severity": 5
+  },
+  {
+    "id": "sunken_eyes",
+    "label": "sunken eyes",
+    "severity": 3
+  },
+  {
+    "id": "sweating",
+    "label": "sweating",
+    "severity": 3
+  },
+  {
+    "id": "swelled_lymph_nodes",
+    "label": "swelled lymph nodes",
+    "severity": 6
+  },
+  {
+    "id": "swelling_joints",
+    "label": "swelling joints",
+    "severity": 5
+  },
+  {
+    "id": "swelling_of_stomach",
+    "label": "swelling of stomach",
+    "severity": 7
+  },
+  {
+    "id": "swollen_blood_vessels",
+    "label": "swollen blood vessels",
+    "severity": 5
+  },
+  {
+    "id": "swollen_extremeties",
+    "label": "swollen extremeties",
+    "severity": 5
+  },
+  {
+    "id": "swollen_legs",
+    "label": "swollen legs",
+    "severity": 5
+  },
+  {
+    "id": "throat_irritation",
+    "label": "throat irritation",
+    "severity": 4
+  },
+  {
+    "id": "toxic_look_(typhos)",
+    "label": "toxic look (typhos)",
+    "severity": 5
+  },
+  {
+    "id": "ulcers_on_tongue",
+    "label": "ulcers on tongue",
+    "severity": 4
+  },
+  {
+    "id": "unsteadiness",
+    "label": "unsteadiness",
+    "severity": 4
+  },
+  {
+    "id": "visual_disturbances",
+    "label": "visual disturbances",
+    "severity": 3
+  },
+  {
+    "id": "vomiting",
+    "label": "vomiting",
+    "severity": 5
+  },
+  {
+    "id": "watering_from_eyes",
+    "label": "watering from eyes",
+    "severity": 4
+  },
+  {
+    "id": "weakness_in_limbs",
+    "label": "weakness in limbs",
+    "severity": 7
+  },
+  {
+    "id": "weakness_of_one_body_side",
+    "label": "weakness of one body side",
+    "severity": 4
+  },
+  {
+    "id": "weight_gain",
+    "label": "weight gain",
+    "severity": 3
+  },
+  {
+    "id": "weight_loss",
+    "label": "weight loss",
+    "severity": 3
+  },
+  {
+    "id": "yellow_crust_ooze",
+    "label": "yellow crust ooze",
+    "severity": 3
+  },
+  {
+    "id": "yellow_urine",
+    "label": "yellow urine",
+    "severity": 4
+  },
+  {
+    "id": "yellowing_of_eyes",
+    "label": "yellowing of eyes",
+    "severity": 4
+  },
+  {
+    "id": "yellowish_skin",
+    "label": "yellowish skin",
+    "severity": 3
+  }
+]
